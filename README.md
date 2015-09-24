@@ -6,9 +6,3 @@ A space themed 2D Online Multiplayer game that allows teams of four to compete a
 We use a form of [GitHub flow] (https://guides.github.com/introduction/flow/). The [master](https://github.com/DJCrossman/capstoneproject) branch is intended contain live code and any merges are for release or hotfixes only. The [development](https://github.com/DJCrossman/capstoneproject/tree/development) branch is intended to be the developer's playground until the code is prepared for live, it is branched off of the master branch. Next we have "feature-..." or "bug-..." branches that branch off of the development branch. These branches add new feature or fix buges on the development branch. Lastly we have the [testing](https://github.com/DJCrossman/capstoneproject/tree/testing) branch off of the master for our testers to play around with our source code.
 
 All changes **MUST** be merged via GitHub's Pull Request feature so that it is peer reviewed.
-
-##Doku Wiki
-http://400.gelowitz.org/capstoneproject/
-
-##Client Issue Tracking
-Access by request https://fingerstachegames.zendesk.com
