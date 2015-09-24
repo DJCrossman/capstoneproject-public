@@ -1,0 +1,87 @@
+# =============== #
+# Unity generated #
+# =============== #
+CapstonePrject/Temp/
+CapstoneProject/Obj/
+CapstoneProject/UnityGenerated/
+CapstoneProject/Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+# =============== #
+# Unity generated #
+# =============== #
+CapstoneProject/Temp/
+CapstoneProject/Obj/
+CapstoneProject/UnityGenerated/
+CapstoneProject/Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+MasterServer/VisualStudio/Debug/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ============== #
+# Game generated #
+# ============== #
+*.dat
+*.dat.meta
+
+# ================= #
+# UnityVS generated #
+# ================= #
+CapstoneProject/Assets/UnityVS
+UnityVS.meta
+
+# ================= #
+# Unit Test generated #
+# ================= #
+CapstoneProject/TestResults/
+CapstoneProject/CapstoneProject.UnitTests/bin/
+CapstoneProject/CapstoneProject.UnitTests/obj/
